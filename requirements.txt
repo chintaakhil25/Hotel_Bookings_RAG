@@ -11,3 +11,5 @@ fastapi
 uvicorn
 scikit-learn
 langchain-groq
+langchain-huggingface
+python-dotenv
