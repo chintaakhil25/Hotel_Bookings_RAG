@@ -1,0 +1,446 @@
+type,insight
+revenue_trend,Total revenue for 7/2015 was $1146861.53
+revenue_trend,Total revenue for 8/2015 was $1698555.34
+revenue_trend,Total revenue for 9/2015 was $1666155.39
+revenue_trend,Total revenue for 10/2015 was $1170206.08
+revenue_trend,Total revenue for 11/2015 was $462989.38
+revenue_trend,Total revenue for 12/2015 was $673348.84
+revenue_trend,Total revenue for 1/2016 was $301626.03
+revenue_trend,Total revenue for 2/2016 was $824783.06
+revenue_trend,Total revenue for 3/2016 was $1075609.91
+revenue_trend,Total revenue for 4/2016 was $1310562.84
+revenue_trend,Total revenue for 5/2016 was $1881691.84
+revenue_trend,Total revenue for 6/2016 was $1751923.92
+revenue_trend,Total revenue for 7/2016 was $2069670.48
+revenue_trend,Total revenue for 8/2016 was $3189394.65
+revenue_trend,Total revenue for 9/2016 was $1930410.22
+revenue_trend,Total revenue for 10/2016 was $2164044.61
+revenue_trend,Total revenue for 11/2016 was $1165454.2
+revenue_trend,Total revenue for 12/2016 was $788555.05
+revenue_trend,Total revenue for 1/2017 was $1286256.97
+revenue_trend,Total revenue for 2/2017 was $1030747.41
+revenue_trend,Total revenue for 3/2017 was $1412293.44
+revenue_trend,Total revenue for 4/2017 was $2123591.23
+revenue_trend,Total revenue for 5/2017 was $2516277.02
+revenue_trend,Total revenue for 6/2017 was $2600902.49
+revenue_trend,Total revenue for 7/2017 was $3132959.07
+revenue_trend,Total revenue for 8/2017 was $3348626.53
+cancellation_rate,37.041628277075134
+country_distribution,PRT accounted for 40.87% of the bookings (48590 bookings)
+country_distribution,GBR accounted for 10.2% of the bookings (12129 bookings)
+country_distribution,FRA accounted for 8.76% of the bookings (10415 bookings)
+country_distribution,ESP accounted for 7.21% of the bookings (8568 bookings)
+country_distribution,DEU accounted for 6.13% of the bookings (7287 bookings)
+country_distribution,ITA accounted for 3.17% of the bookings (3766 bookings)
+country_distribution,IRL accounted for 2.84% of the bookings (3375 bookings)
+country_distribution,BEL accounted for 1.97% of the bookings (2342 bookings)
+country_distribution,BRA accounted for 1.87% of the bookings (2224 bookings)
+country_distribution,NLD accounted for 1.77% of the bookings (2104 bookings)
+country_distribution,USA accounted for 1.76% of the bookings (2097 bookings)
+country_distribution,CHE accounted for 1.45% of the bookings (1730 bookings)
+country_distribution,CN accounted for 1.08% of the bookings (1279 bookings)
+country_distribution,AUT accounted for 1.06% of the bookings (1263 bookings)
+country_distribution,SWE accounted for 0.86% of the bookings (1024 bookings)
+country_distribution,CHN accounted for 0.84% of the bookings (999 bookings)
+country_distribution,POL accounted for 0.77% of the bookings (919 bookings)
+country_distribution,ISR accounted for 0.56% of the bookings (669 bookings)
+country_distribution,RUS accounted for 0.53% of the bookings (632 bookings)
+country_distribution,NOR accounted for 0.51% of the bookings (607 bookings)
+country_distribution,ROU accounted for 0.42% of the bookings (500 bookings)
+country_distribution,FIN accounted for 0.38% of the bookings (447 bookings)
+country_distribution,DNK accounted for 0.37% of the bookings (435 bookings)
+country_distribution,AUS accounted for 0.36% of the bookings (426 bookings)
+country_distribution,AGO accounted for 0.3% of the bookings (362 bookings)
+country_distribution,LUX accounted for 0.24% of the bookings (287 bookings)
+country_distribution,MAR accounted for 0.22% of the bookings (259 bookings)
+country_distribution,TUR accounted for 0.21% of the bookings (248 bookings)
+country_distribution,HUN accounted for 0.19% of the bookings (230 bookings)
+country_distribution,ARG accounted for 0.18% of the bookings (214 bookings)
+country_distribution,JPN accounted for 0.17% of the bookings (197 bookings)
+country_distribution,CZE accounted for 0.14% of the bookings (171 bookings)
+country_distribution,IND accounted for 0.13% of the bookings (152 bookings)
+country_distribution,KOR accounted for 0.11% of the bookings (133 bookings)
+country_distribution,GRC accounted for 0.11% of the bookings (128 bookings)
+country_distribution,DZA accounted for 0.09% of the bookings (103 bookings)
+country_distribution,SRB accounted for 0.08% of the bookings (101 bookings)
+country_distribution,HRV accounted for 0.08% of the bookings (100 bookings)
+country_distribution,MEX accounted for 0.07% of the bookings (85 bookings)
+country_distribution,IRN accounted for 0.07% of the bookings (83 bookings)
+country_distribution,EST accounted for 0.07% of the bookings (83 bookings)
+country_distribution,LTU accounted for 0.07% of the bookings (81 bookings)
+country_distribution,ZAF accounted for 0.07% of the bookings (80 bookings)
+country_distribution,BGR accounted for 0.06% of the bookings (75 bookings)
+country_distribution,NZL accounted for 0.06% of the bookings (74 bookings)
+country_distribution,COL accounted for 0.06% of the bookings (71 bookings)
+country_distribution,UKR accounted for 0.06% of the bookings (68 bookings)
+country_distribution,MOZ accounted for 0.06% of the bookings (67 bookings)
+country_distribution,CHL accounted for 0.05% of the bookings (65 bookings)
+country_distribution,SVK accounted for 0.05% of the bookings (65 bookings)
+country_distribution,THA accounted for 0.05% of the bookings (59 bookings)
+country_distribution,SVN accounted for 0.05% of the bookings (57 bookings)
+country_distribution,ISL accounted for 0.05% of the bookings (57 bookings)
+country_distribution,LVA accounted for 0.05% of the bookings (55 bookings)
+country_distribution,CYP accounted for 0.04% of the bookings (51 bookings)
+country_distribution,TWN accounted for 0.04% of the bookings (51 bookings)
+country_distribution,ARE accounted for 0.04% of the bookings (51 bookings)
+country_distribution,SAU accounted for 0.04% of the bookings (48 bookings)
+country_distribution,PHL accounted for 0.03% of the bookings (40 bookings)
+country_distribution,SGP accounted for 0.03% of the bookings (39 bookings)
+country_distribution,TUN accounted for 0.03% of the bookings (39 bookings)
+country_distribution,IDN accounted for 0.03% of the bookings (35 bookings)
+country_distribution,NGA accounted for 0.03% of the bookings (34 bookings)
+country_distribution,URY accounted for 0.03% of the bookings (32 bookings)
+country_distribution,EGY accounted for 0.03% of the bookings (32 bookings)
+country_distribution,LBN accounted for 0.03% of the bookings (31 bookings)
+country_distribution,HKG accounted for 0.02% of the bookings (29 bookings)
+country_distribution,PER accounted for 0.02% of the bookings (29 bookings)
+country_distribution,MYS accounted for 0.02% of the bookings (28 bookings)
+country_distribution,ECU accounted for 0.02% of the bookings (27 bookings)
+country_distribution,VEN accounted for 0.02% of the bookings (26 bookings)
+country_distribution,BLR accounted for 0.02% of the bookings (26 bookings)
+country_distribution,CPV accounted for 0.02% of the bookings (24 bookings)
+country_distribution,GEO accounted for 0.02% of the bookings (22 bookings)
+country_distribution,JOR accounted for 0.02% of the bookings (21 bookings)
+country_distribution,CRI accounted for 0.02% of the bookings (19 bookings)
+country_distribution,KAZ accounted for 0.02% of the bookings (19 bookings)
+country_distribution,MLT accounted for 0.02% of the bookings (18 bookings)
+country_distribution,OMN accounted for 0.02% of the bookings (18 bookings)
+country_distribution,GIB accounted for 0.02% of the bookings (18 bookings)
+country_distribution,AZE accounted for 0.01% of the bookings (17 bookings)
+country_distribution,MAC accounted for 0.01% of the bookings (16 bookings)
+country_distribution,KWT accounted for 0.01% of the bookings (16 bookings)
+country_distribution,QAT accounted for 0.01% of the bookings (15 bookings)
+country_distribution,DOM accounted for 0.01% of the bookings (14 bookings)
+country_distribution,IRQ accounted for 0.01% of the bookings (14 bookings)
+country_distribution,PAK accounted for 0.01% of the bookings (14 bookings)
+country_distribution,BIH accounted for 0.01% of the bookings (13 bookings)
+country_distribution,ALB accounted for 0.01% of the bookings (12 bookings)
+country_distribution,MDV accounted for 0.01% of the bookings (12 bookings)
+country_distribution,BGD accounted for 0.01% of the bookings (12 bookings)
+country_distribution,PRI accounted for 0.01% of the bookings (12 bookings)
+country_distribution,SEN accounted for 0.01% of the bookings (11 bookings)
+country_distribution,BOL accounted for 0.01% of the bookings (10 bookings)
+country_distribution,CMR accounted for 0.01% of the bookings (10 bookings)
+country_distribution,MKD accounted for 0.01% of the bookings (10 bookings)
+country_distribution,PAN accounted for 0.01% of the bookings (9 bookings)
+country_distribution,TJK accounted for 0.01% of the bookings (9 bookings)
+country_distribution,GNB accounted for 0.01% of the bookings (9 bookings)
+country_distribution,ARM accounted for 0.01% of the bookings (8 bookings)
+country_distribution,JEY accounted for 0.01% of the bookings (8 bookings)
+country_distribution,VNM accounted for 0.01% of the bookings (8 bookings)
+country_distribution,LBY accounted for 0.01% of the bookings (8 bookings)
+country_distribution,CUB accounted for 0.01% of the bookings (8 bookings)
+country_distribution,AND accounted for 0.01% of the bookings (7 bookings)
+country_distribution,LKA accounted for 0.01% of the bookings (7 bookings)
+country_distribution,MUS accounted for 0.01% of the bookings (7 bookings)
+country_distribution,CIV accounted for 0.01% of the bookings (6 bookings)
+country_distribution,JAM accounted for 0.01% of the bookings (6 bookings)
+country_distribution,KEN accounted for 0.01% of the bookings (6 bookings)
+country_distribution,SUR accounted for 0.0% of the bookings (5 bookings)
+country_distribution,BHR accounted for 0.0% of the bookings (5 bookings)
+country_distribution,TZA accounted for 0.0% of the bookings (5 bookings)
+country_distribution,MNE accounted for 0.0% of the bookings (5 bookings)
+country_distribution,FRO accounted for 0.0% of the bookings (5 bookings)
+country_distribution,CAF accounted for 0.0% of the bookings (5 bookings)
+country_distribution,GHA accounted for 0.0% of the bookings (4 bookings)
+country_distribution,UZB accounted for 0.0% of the bookings (4 bookings)
+country_distribution,ZWE accounted for 0.0% of the bookings (4 bookings)
+country_distribution,PRY accounted for 0.0% of the bookings (4 bookings)
+country_distribution,BRB accounted for 0.0% of the bookings (4 bookings)
+country_distribution,GTM accounted for 0.0% of the bookings (4 bookings)
+country_distribution,MCO accounted for 0.0% of the bookings (4 bookings)
+country_distribution,GAB accounted for 0.0% of the bookings (4 bookings)
+country_distribution,TMP accounted for 0.0% of the bookings (3 bookings)
+country_distribution,BEN accounted for 0.0% of the bookings (3 bookings)
+country_distribution,ETH accounted for 0.0% of the bookings (3 bookings)
+country_distribution,GGY accounted for 0.0% of the bookings (3 bookings)
+country_distribution,SYR accounted for 0.0% of the bookings (3 bookings)
+country_distribution,LIE accounted for 0.0% of the bookings (3 bookings)
+country_distribution,LAO accounted for 0.0% of the bookings (2 bookings)
+country_distribution,SLV accounted for 0.0% of the bookings (2 bookings)
+country_distribution,ATA accounted for 0.0% of the bookings (2 bookings)
+country_distribution,SYC accounted for 0.0% of the bookings (2 bookings)
+country_distribution,COM accounted for 0.0% of the bookings (2 bookings)
+country_distribution,ZMB accounted for 0.0% of the bookings (2 bookings)
+country_distribution,UGA accounted for 0.0% of the bookings (2 bookings)
+country_distribution,KNA accounted for 0.0% of the bookings (2 bookings)
+country_distribution,TGO accounted for 0.0% of the bookings (2 bookings)
+country_distribution,MYT accounted for 0.0% of the bookings (2 bookings)
+country_distribution,RWA accounted for 0.0% of the bookings (2 bookings)
+country_distribution,MWI accounted for 0.0% of the bookings (2 bookings)
+country_distribution,STP accounted for 0.0% of the bookings (2 bookings)
+country_distribution,KHM accounted for 0.0% of the bookings (2 bookings)
+country_distribution,IMN accounted for 0.0% of the bookings (2 bookings)
+country_distribution,GLP accounted for 0.0% of the bookings (2 bookings)
+country_distribution,ABW accounted for 0.0% of the bookings (2 bookings)
+country_distribution,BWA accounted for 0.0% of the bookings (1 bookings)
+country_distribution,SMR accounted for 0.0% of the bookings (1 bookings)
+country_distribution,CYM accounted for 0.0% of the bookings (1 bookings)
+country_distribution,PLW accounted for 0.0% of the bookings (1 bookings)
+country_distribution,FJI accounted for 0.0% of the bookings (1 bookings)
+country_distribution,BDI accounted for 0.0% of the bookings (1 bookings)
+country_distribution,VGB accounted for 0.0% of the bookings (1 bookings)
+country_distribution,NIC accounted for 0.0% of the bookings (1 bookings)
+country_distribution,HND accounted for 0.0% of the bookings (1 bookings)
+country_distribution,DJI accounted for 0.0% of the bookings (1 bookings)
+country_distribution,BHS accounted for 0.0% of the bookings (1 bookings)
+country_distribution,NPL accounted for 0.0% of the bookings (1 bookings)
+country_distribution,MDG accounted for 0.0% of the bookings (1 bookings)
+country_distribution,UMI accounted for 0.0% of the bookings (1 bookings)
+country_distribution,MLI accounted for 0.0% of the bookings (1 bookings)
+country_distribution,BFA accounted for 0.0% of the bookings (1 bookings)
+country_distribution,NAM accounted for 0.0% of the bookings (1 bookings)
+country_distribution,MMR accounted for 0.0% of the bookings (1 bookings)
+country_distribution,PYF accounted for 0.0% of the bookings (1 bookings)
+country_distribution,DMA accounted for 0.0% of the bookings (1 bookings)
+country_distribution,LCA accounted for 0.0% of the bookings (1 bookings)
+country_distribution,AIA accounted for 0.0% of the bookings (1 bookings)
+country_distribution,GUY accounted for 0.0% of the bookings (1 bookings)
+country_distribution,ASM accounted for 0.0% of the bookings (1 bookings)
+country_distribution,NCL accounted for 0.0% of the bookings (1 bookings)
+country_distribution,MRT accounted for 0.0% of the bookings (1 bookings)
+country_distribution,KIR accounted for 0.0% of the bookings (1 bookings)
+country_distribution,SDN accounted for 0.0% of the bookings (1 bookings)
+country_distribution,ATF accounted for 0.0% of the bookings (1 bookings)
+country_distribution,SLE accounted for 0.0% of the bookings (1 bookings)
+lead_time_stats,The average lead time was 104.01 days
+lead_time_stats,The median lead time was 69.00 days
+lead_time_stats,The standard deviation of lead time was 106.86 days
+lead_time_range,0-30 days had 38047 bookings (31.87%)
+lead_time_range,31-90 days had 29919 bookings (25.06%)
+lead_time_range,91-180 days had 26462 bookings (22.16%)
+lead_time_range,181-365 days had 21749 bookings (18.22%)
+lead_time_range,365+ days had 3213 bookings (2.69%)
+lead_time_stats,The average lead time was 104.01 days
+lead_time_stats,The median lead time was 69.00 days
+lead_time_stats,The standard deviation of lead time was 106.86 days
+lead_time_range,0-30 days had 38047 bookings (31.87%)
+lead_time_range,31-90 days had 29919 bookings (25.06%)
+lead_time_range,91-180 days had 26462 bookings (22.16%)
+lead_time_range,181-365 days had 21749 bookings (18.22%)
+lead_time_range,365+ days had 3213 bookings (2.69%)
+cancellation_rate_by_month_year,The cancellation rate for 7/2015 was 45.35%
+cancellation_rate_by_month_year,The cancellation rate for 8/2015 was 41.09%
+cancellation_rate_by_month_year,The cancellation rate for 9/2015 was 40.95%
+cancellation_rate_by_month_year,The cancellation rate for 10/2015 was 34.94%
+cancellation_rate_by_month_year,The cancellation rate for 11/2015 was 20.77%
+cancellation_rate_by_month_year,The cancellation rate for 12/2015 was 33.32%
+cancellation_rate_by_month_year,The cancellation rate for 1/2016 was 23.75%
+cancellation_rate_by_month_year,The cancellation rate for 2/2016 was 31.79%
+cancellation_rate_by_month_year,The cancellation rate for 3/2016 was 32.73%
+cancellation_rate_by_month_year,The cancellation rate for 4/2016 was 35.03%
+cancellation_rate_by_month_year,The cancellation rate for 5/2016 was 36.81%
+cancellation_rate_by_month_year,The cancellation rate for 6/2016 was 39.75%
+cancellation_rate_by_month_year,The cancellation rate for 7/2016 was 34.02%
+cancellation_rate_by_month_year,The cancellation rate for 8/2016 was 35.29%
+cancellation_rate_by_month_year,The cancellation rate for 9/2016 was 36.29%
+cancellation_rate_by_month_year,The cancellation rate for 10/2016 was 40.74%
+cancellation_rate_by_month_year,The cancellation rate for 11/2016 was 36.69%
+cancellation_rate_by_month_year,The cancellation rate for 12/2016 was 34.8%
+cancellation_rate_by_month_year,The cancellation rate for 1/2017 was 35.1%
+cancellation_rate_by_month_year,The cancellation rate for 2/2017 was 32.54%
+cancellation_rate_by_month_year,The cancellation rate for 3/2017 was 33.64%
+cancellation_rate_by_month_year,The cancellation rate for 4/2017 was 43.73%
+cancellation_rate_by_month_year,The cancellation rate for 5/2017 was 43.56%
+cancellation_rate_by_month_year,The cancellation rate for 6/2017 was 43.19%
+cancellation_rate_by_month_year,The cancellation rate for 7/2017 was 37.34%
+cancellation_rate_by_month_year,The cancellation rate for 8/2017 was 36.87%
+cancellation_rate_by_hotel,The cancellation rate for City Hotel was 41.73%
+cancellation_rate_by_hotel,The cancellation rate for Resort Hotel was 27.76%
+revenue_by_hotel,Total revenue for City Hotel was $25279469.96
+revenue_by_hotel,Total revenue for Resort Hotel was $17444027.57
+revenue_by_country,Total revenue from PRT was $14129138.79
+revenue_by_country,Total revenue from GBR was $5284467.53
+revenue_by_country,Total revenue from FRA was $4026513.04
+revenue_by_country,Total revenue from ESP was $3304436.86
+revenue_by_country,Total revenue from DEU was $2624462.75
+revenue_by_country,Total revenue from IRL was $1652099.97
+revenue_by_country,Total revenue from ITA was $1416871.32
+revenue_by_country,Total revenue from BEL was $979151.86
+revenue_by_country,Total revenue from BRA was $861397.12
+revenue_by_country,Total revenue from NLD was $800036.95
+revenue_by_country,Total revenue from CHE was $794197.53
+revenue_by_country,Total revenue from USA was $708624.7
+revenue_by_country,Total revenue from CN was $510016.73
+revenue_by_country,Total revenue from AUT was $477308.26
+revenue_by_country,Total revenue from SWE was $446471.3
+revenue_by_country,Total revenue from POL was $397784.01
+revenue_by_country,Total revenue from AGO was $342542.09
+revenue_by_country,Total revenue from NOR was $317357.29
+revenue_by_country,Total revenue from RUS was $308474.2
+revenue_by_country,Total revenue from CHN was $292122.44
+revenue_by_country,Total revenue from ROU was $274296.7
+revenue_by_country,Total revenue from DNK was $207102.55
+revenue_by_country,Total revenue from ISR was $193233.27
+revenue_by_country,Total revenue from FIN was $182748.14
+revenue_by_country,Total revenue from LUX was $143883.5
+revenue_by_country,Total revenue from MAR was $143459.42
+revenue_by_country,Total revenue from AUS was $143273.55
+revenue_by_country,Total revenue from HUN was $100213.5
+revenue_by_country,Total revenue from TUR was $86996.64
+revenue_by_country,Total revenue from ARG was $78805.09
+revenue_by_country,Total revenue from JPN was $71779.6
+revenue_by_country,Total revenue from CZE was $65277.58
+revenue_by_country,Total revenue from GRC was $56794.11
+revenue_by_country,Total revenue from IND was $54044.82
+revenue_by_country,Total revenue from DZA was $45699.16
+revenue_by_country,Total revenue from IRN was $44840.33
+revenue_by_country,Total revenue from HRV was $43433.01
+revenue_by_country,Total revenue from EST was $43114.86
+revenue_by_country,Total revenue from LTU was $40372.58
+revenue_by_country,Total revenue from KOR was $36764.14
+revenue_by_country,Total revenue from SAU was $32890.32
+revenue_by_country,Total revenue from ARE was $31142.47
+revenue_by_country,Total revenue from MOZ was $31017.1
+revenue_by_country,Total revenue from BGR was $29205.17
+revenue_by_country,Total revenue from SRB was $28767.61
+revenue_by_country,Total revenue from ISL was $27180.89
+revenue_by_country,Total revenue from SVK was $25923.53
+revenue_by_country,Total revenue from MEX was $25152.89
+revenue_by_country,Total revenue from ZAF was $25002.01
+revenue_by_country,Total revenue from UKR was $24695.58
+revenue_by_country,Total revenue from CHL was $23775.9
+revenue_by_country,Total revenue from LVA was $22462.57
+revenue_by_country,Total revenue from COL was $22109.0
+revenue_by_country,Total revenue from SVN was $21367.7
+revenue_by_country,Total revenue from NZL was $21153.82
+revenue_by_country,Total revenue from GEO was $19782.6
+revenue_by_country,Total revenue from NGA was $18047.67
+revenue_by_country,Total revenue from TWN was $17819.3
+revenue_by_country,Total revenue from TUN was $16871.14
+revenue_by_country,Total revenue from PHL was $16420.89
+revenue_by_country,Total revenue from THA was $16300.8
+revenue_by_country,Total revenue from CYP was $16156.75
+revenue_by_country,Total revenue from EGY was $15204.14
+revenue_by_country,Total revenue from CPV was $15013.98
+revenue_by_country,Total revenue from URY was $13399.84
+revenue_by_country,Total revenue from IDN was $13030.5
+revenue_by_country,Total revenue from BLR was $12214.9
+revenue_by_country,Total revenue from SEN was $12090.76
+revenue_by_country,Total revenue from LBN was $11094.79
+revenue_by_country,Total revenue from ECU was $11089.39
+revenue_by_country,Total revenue from SGP was $9715.85
+revenue_by_country,Total revenue from KAZ was $9706.9
+revenue_by_country,Total revenue from PER was $9363.07
+revenue_by_country,Total revenue from VEN was $9344.88
+revenue_by_country,Total revenue from AZE was $9339.31
+revenue_by_country,Total revenue from GIB was $8876.72
+revenue_by_country,Total revenue from FRO was $8839.0
+revenue_by_country,Total revenue from QAT was $8727.91
+revenue_by_country,Total revenue from HKG was $8549.5
+revenue_by_country,Total revenue from DOM was $8047.71
+revenue_by_country,Total revenue from PAK was $7513.81
+revenue_by_country,Total revenue from OMN was $7461.32
+revenue_by_country,Total revenue from BGD was $7428.97
+revenue_by_country,Total revenue from KWT was $7126.82
+revenue_by_country,Total revenue from AND was $6991.99
+revenue_by_country,Total revenue from MYS was $6862.66
+revenue_by_country,Total revenue from MDV was $6745.1
+revenue_by_country,Total revenue from MLT was $6002.34
+revenue_by_country,Total revenue from JOR was $5969.06
+revenue_by_country,Total revenue from MAC was $5209.52
+revenue_by_country,Total revenue from GNB was $5176.49
+revenue_by_country,Total revenue from IRQ was $4857.0
+revenue_by_country,Total revenue from BIH was $4744.45
+revenue_by_country,Total revenue from CRI was $4524.52
+revenue_by_country,Total revenue from PAN was $4042.7
+revenue_by_country,Total revenue from CMR was $3864.98
+revenue_by_country,Total revenue from TJK was $3705.3
+revenue_by_country,Total revenue from ALB was $3469.03
+revenue_by_country,Total revenue from BOL was $3450.0
+revenue_by_country,Total revenue from MKD was $3267.8
+revenue_by_country,Total revenue from LKA was $3182.9
+revenue_by_country,Total revenue from CIV was $3178.0
+revenue_by_country,Total revenue from KEN was $3083.94
+revenue_by_country,Total revenue from MNE was $2834.0
+revenue_by_country,Total revenue from GHA was $2832.2
+revenue_by_country,Total revenue from VNM was $2748.4
+revenue_by_country,Total revenue from JAM was $2680.17
+revenue_by_country,Total revenue from JEY was $2575.37
+revenue_by_country,Total revenue from MUS was $2424.11
+revenue_by_country,Total revenue from PRI was $2122.92
+revenue_by_country,Total revenue from BHR was $2087.55
+revenue_by_country,Total revenue from ARM was $2003.1
+revenue_by_country,Total revenue from SUR was $1979.0
+revenue_by_country,Total revenue from CUB was $1811.88
+revenue_by_country,Total revenue from TGO was $1784.5
+revenue_by_country,Total revenue from LBY was $1537.0
+revenue_by_country,Total revenue from TZA was $1486.0
+revenue_by_country,Total revenue from MYT was $1480.5
+revenue_by_country,Total revenue from ETH was $1398.48
+revenue_by_country,Total revenue from GAB was $1398.0
+revenue_by_country,Total revenue from UZB was $1168.39
+revenue_by_country,Total revenue from TMP was $1158.6
+revenue_by_country,Total revenue from AIA was $1060.0
+revenue_by_country,Total revenue from CAF was $1046.98
+revenue_by_country,Total revenue from RWA was $964.74
+revenue_by_country,Total revenue from IMN was $963.9
+revenue_by_country,Total revenue from PLW was $954.03
+revenue_by_country,Total revenue from MCO was $951.92
+revenue_by_country,Total revenue from LIE was $927.8
+revenue_by_country,Total revenue from ABW was $927.72
+revenue_by_country,Total revenue from LAO was $909.99
+revenue_by_country,Total revenue from ZWE was $868.89
+revenue_by_country,Total revenue from SYR was $864.0
+revenue_by_country,Total revenue from BEN was $864.0
+revenue_by_country,Total revenue from SLE was $850.01
+revenue_by_country,Total revenue from GLP was $840.0
+revenue_by_country,Total revenue from ZMB was $794.22
+revenue_by_country,Total revenue from KHM was $792.0
+revenue_by_country,Total revenue from GGY was $772.4
+revenue_by_country,Total revenue from BRB was $760.0
+revenue_by_country,Total revenue from NCL was $702.0
+revenue_by_country,Total revenue from PRY was $671.8
+revenue_by_country,Total revenue from SYC was $614.25
+revenue_by_country,Total revenue from UMI was $600.0
+revenue_by_country,Total revenue from MRT was $585.9
+revenue_by_country,Total revenue from ATA was $537.0
+revenue_by_country,Total revenue from NAM was $486.44
+revenue_by_country,Total revenue from GTM was $486.0
+revenue_by_country,Total revenue from SLV was $457.7
+revenue_by_country,Total revenue from KIR was $432.0
+revenue_by_country,Total revenue from PYF was $432.0
+revenue_by_country,Total revenue from DMA was $421.2
+revenue_by_country,Total revenue from NIC was $417.0
+revenue_by_country,Total revenue from FJI was $405.99
+revenue_by_country,Total revenue from LCA was $403.75
+revenue_by_country,Total revenue from KNA was $368.8
+revenue_by_country,Total revenue from GUY was $360.0
+revenue_by_country,Total revenue from BHS was $355.95
+revenue_by_country,Total revenue from BWA was $355.5
+revenue_by_country,Total revenue from STP was $344.0
+revenue_by_country,Total revenue from COM was $330.61
+revenue_by_country,Total revenue from VGB was $301.5
+revenue_by_country,Total revenue from SDN was $297.0
+revenue_by_country,Total revenue from MMR was $290.0
+revenue_by_country,Total revenue from DJI was $273.0
+revenue_by_country,Total revenue from SMR was $264.6
+revenue_by_country,Total revenue from UGA was $255.0
+revenue_by_country,Total revenue from NPL was $255.0
+revenue_by_country,Total revenue from ATF was $252.0
+revenue_by_country,Total revenue from MWI was $252.0
+revenue_by_country,Total revenue from CYM was $162.0
+revenue_by_country,Total revenue from BDI was $92.0
+revenue_by_country,Total revenue from MLI was $89.0
+revenue_by_country,Total revenue from BFA was $80.3
+revenue_by_country,Total revenue from HND was $79.0
+revenue_by_country,Total revenue from ASM was $72.07
+revenue_by_country,Total revenue from MDG was $44.0
+lead_time_vs_cancellation,The correlation between lead time and cancellation is 0.29.
+avg_stay,The average length of stay was 3.43 nights.
+avg_guests,The average number of guests per booking was 1.97.
+market_segment_distribution,Online TA segment constitutes 47.3% of the total bookings
+market_segment_distribution,Offline TA/TO segment constitutes 20.29% of the total bookings
+market_segment_distribution,Groups segment constitutes 16.59% of the total bookings
+market_segment_distribution,Direct segment constitutes 10.56% of the total bookings
+market_segment_distribution,Corporate segment constitutes 4.44% of the total bookings
+market_segment_distribution,Complementary segment constitutes 0.62% of the total bookings
+market_segment_distribution,Aviation segment constitutes 0.2% of the total bookings
+market_segment_distribution,Undefined segment constitutes 0.0% of the total bookings
+distribution_channel_distribution,TA/TO constitutes 81.98% of bookings
+distribution_channel_distribution,Direct constitutes 12.27% of bookings
+distribution_channel_distribution,Corporate constitutes 5.59% of bookings
+distribution_channel_distribution,GDS constitutes 0.16% of bookings
+distribution_channel_distribution,Undefined constitutes 0.0% of bookings
+parking_percentage,6.21% of bookings required car parking spaces.
+avg_special_requests,The average number of special requests per booking was 0.57.
