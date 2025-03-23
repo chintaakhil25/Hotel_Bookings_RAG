@@ -14,3 +14,8 @@ __pycache__/
 
 *.dll
 *.lib
+
+git filter-branch --force --index-filter \
+'git rm --cached --ignore-unmatch hotel_bookingsenv/Lib/site-packages/torch/lib/torch_cpu.dll \
+ hotel_bookingsenv/Lib/site-packages/torch/lib/dnnl.lib' \
+ --prune-empty --tag-name-filter cat -- --all
