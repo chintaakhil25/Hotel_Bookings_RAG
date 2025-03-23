@@ -125,5 +125,4 @@ The API provides the following endpoints:
 {"text": "What is the overall cancellation rate?"}' at http://127.0.0.1:8000/docs#/default/ask_question_ask_post
 
 
-git branch -M main
-git push -u origin main
+
