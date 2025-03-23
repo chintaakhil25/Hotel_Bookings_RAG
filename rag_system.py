@@ -9,6 +9,8 @@ import os
 
 load_dotenv()
 
+api_key = os.getenv("GROQ_API_KEY")
+
 def load_data_and_create_documents(csv_path='insights_df.csv'):
     insights_df = pd.read_csv(csv_path)
     documents = []
@@ -28,61 +30,17 @@ def load_vector_store():
     return FAISS.load_local("faiss_insights", embedding_model, allow_dangerous_deserialization=True)
 
 def load_llm():
-    llm = ChatGroq(temperature=0.7, model_name="mixtral-8x7b-32768")
+    llm = ChatGroq(temperature=0.7, model_name="llama-3.3-70b-versatile",api_key = api_key)
     return llm
 
-def infer_filter_type(query):
-    """Infers a potential filter_type from the user's query."""
-    query = query.lower()
-    filter_mapping = {
-        "cancellation": "cancellation_rate",
-        "cancel": "cancellation_rate",  # Add variations
-        "canceled": "cancellation_rate",
-        "resort hotel": "cancellation_rate_by_hotel",
-        "city hotel": "cancellation_rate_by_hotel",
-        "revenue": "revenue_trend",
-        "lead time": "lead_time",
-        "country": "country_distribution",
-        "market segment": "market_segment_distribution", #for market segment insights
-        "distribution channel":"distribution_channel_distribution", #for distribution channel insights
-        "repeated guests":"repeated_guest_percentage",
-        "room type":"room_type_distribution",
-        "booking changes":"avg_booking_changes",
-        "deposit type":"deposit_type_distribution",
-        "waiting list":"avg_waiting_days",
-        "parking":"parking_percentage",
-        "special requests":"avg_special_requests"
-        # Add more mappings as needed
-    }
 
-    for keyword, filter_type in filter_mapping.items():
-        if keyword in query:
-            return filter_type
-    return None  # No filter type inferred
 
-def retrieve_insights(query, k, filter_type=None):
+
+def retrieve_insights(query, k):
     """Retrieves insights from the FAISS index."""
     embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-    vector_store = FAISS.load_local("faiss_insights", embedding_model)
-
-    # --- Infer filter_type if not provided ---
-    if filter_type is None:
-        filter_type = infer_filter_type(query)
-    # --- Rest of the retrieval logic remains the same ---
-
-    if filter_type:
-        documents = vector_store.docstore._dict.values()
-        filtered_docs = []
-        for doc in documents:
-            if doc.metadata['type'] == filter_type:
-                filtered_docs.append(doc)
-        if filtered_docs:
-            filtered_vs = FAISS.from_documents(filtered_docs, embedding_model)
-            results = filtered_vs.similarity_search_with_score(query, k=k)
-        else:
-            results = []
-    else:
-        results = vector_store.similarity_search_with_score(query, k=k)
+    vector_store = FAISS.load_local("faiss_insights", embedding_model,allow_dangerous_deserialization=True)
+    results = vector_store.similarity_search_with_score(query, k=k)
     return results
 
 def generate_answer(llm, query, context):
@@ -100,3 +58,4 @@ def generate_answer(llm, query, context):
     """
     answer = llm.invoke(prompt)
     return answer.content
+
