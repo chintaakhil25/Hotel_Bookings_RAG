@@ -11,4 +11,3 @@ faiss_insights/
 # data/  <-- If hotel_bookings.csv is very large, or you don't have permission to share it
 __pycache__/
 *.pyc
-.DS_Store #mac os related
